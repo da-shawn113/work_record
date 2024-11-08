@@ -1,0 +1,4 @@
+# 非必要檔案
+.gitignore
+*.pptx
+*.ptt
